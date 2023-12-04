@@ -1,0 +1,29 @@
+#Tittle{
+text-align: center;
+}
+
+.box1{
+height: 100px;
+width: 100px;
+}
+
+.box2{
+height: 100px;
+width: 100px;
+}
+
+.box3{
+height: 100px;
+width: 100px;
+}
+
+table{
+width: 100%;
+text-align: center;
+}
+
+img{
+height: 200px;
+width: fit-content;
+
+}
