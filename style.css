@@ -62,3 +62,12 @@
     div{
         word-wrap: normal;
     }
+
+    a{
+        text-align: center;
+    }
+
+    .alkitab-suara {
+        text-align: center;
+        font-size: 1vmax;
+    }
